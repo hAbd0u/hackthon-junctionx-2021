@@ -1,0 +1,28 @@
+{
+    "_id": {
+        "$oid": "61bceb1efc42c90d38067c02"
+    },
+    "title": "Abdellah Ben Salem Mosque , ex : Great Synagogue of Oran",
+    "lan": "-0.6519508",
+    "lat": "35.6996886",
+    "description": "The Abdellah Ben Salem Mosque is a mosque in Oran, Algeria. Formerly the Great Synagogue of Oran), it was the largest synagogue in Africa , Also known as jews Temple, it is located on Boulevard Joffre, currently Boulevard Maata Mohamed El Habib.Its construction began in 1879 at the initiative of the French, and took 38 years to complete. Once Algeria gained its independence in 1962, almost all Algerian Jews, who were considered French citizens since the Crémieux Decree of 1870, relocated to France alangside the Pied-Noir (french that were born and lived in Algeria) community. In 1975, the synagogue was converted into a mosque and named after Abdullah ibn Salam, a seventh-century Jew from Medina and companion of Muhammad who converted to Islam.",
+    "gallery": ["Abdellah-Ben-Salem-Mosque-01.jpg", "Abdellah-Ben-Salem-Mosque-02.jpg"]
+}, {
+    "_id": {
+        "$oid": "61bd33459df6fb4aa764d136"
+    },
+    "title": "Fort Santa Cruz",
+    "description": "Fort Santa Cruz is one of the three forts in Oran, the second largest port city of Algeria; the other two forts are Fort de la Moune at the western end of the port and Fort Saint-Philippe, a replacement of the old castle of the Saints known in Spanish as Castillo de los Santos, at the centre of Oran. The three forts are connected by tunnels. Fort Santa Cruz was built between 1577 and 1604 by the Spaniards on the Pic d’Aidour above Gulf of Oran in the Mediterranean Sea, at an elevation of above 400 metres. In 1831, the French occupied Oran and the fort.",
+    "gallery": ["Fort-Santa-Cruz-01.jpg", "Fort-Santa-Cruz-02.jpg", "Fort-Santa-Cruz-03.jpg", "Fort-Santa-Cruz-04.jpg", "Fort-Santa-Cruz-05.jpg"],
+    "lat": "35.7094837",
+    "lan": "-0.6666067"
+}, {
+    "_id": {
+        "$oid": "61bd335e9df6fb4aa764d137"
+    },
+    "title": "Square of November 1 st  1954 (ex-Place d'Armes)",
+    "description": "Square of November 1 st  1954 (ex-Place d'Armes) is considered the historic heart of the city of Oran, it is at the crossroads of several roads that you come from the port, the seafront and thecity s pular neighborhoods.",
+    "gallery": ["Square-of-November-1-st-1954-01.jpg", "Square-of-November-1-st-1954-02.jpg"],
+    "lat": 35.7029404,
+    "lan": -0.6515264
+}
